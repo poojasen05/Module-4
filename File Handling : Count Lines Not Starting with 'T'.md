@@ -12,8 +12,30 @@ To write a Python program that counts the number of lines in a text file `story.
 4. After processing all lines, print the `count` value, which represents the number of lines that do not start with `'T'`.
 
 ## 🧾 Program
-Add code here
+```
+import math
+
+class cse:
+    def mech(self, radius):
+        area = math.pi * radius ** 2
+        print(f"Area of circle: {area:.2f}")
+
+
+r = float(input())
+
+obj = cse()
+obj.mech(r)
+```
+
+
 
 ## Output
 
+![image](https://github.com/user-attachments/assets/4662f217-8f87-4363-b227-ffbde61815d7)
+
+
 ## Result
+
+Thus code is executed successfully
+
+
